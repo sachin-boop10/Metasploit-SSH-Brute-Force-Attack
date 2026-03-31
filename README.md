@@ -4,7 +4,7 @@
    Open Kali linux commend
   # sudo service ssh start
   # sudo service ssh status
-  chek active - (runing)
+  chek active -  (runing)
   
 
     **Step - 02**
